@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This simple Node.js application generates a QR code based on user input.
+This simple Node.js application generates a QR code based on user input URL.
 
 ## Installation
 
